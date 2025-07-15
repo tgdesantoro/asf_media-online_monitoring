@@ -1,0 +1,24 @@
+﻿nomor;doc_id;species;date_publish;state;district;mukim;kampung;source_web;carcass;level;url
+1;MN001;domestic;25/02/2022;sabah;kinabatangan;;;pig333;303;state;https://www.pig333.com/latest_swine_news/first-asf-outbreak-in-malaysia_17167/
+2;MN001;domestic;25/02/2022;sabah;pitas;town;;pig333;;;https://www.pig333.com/latest_swine_news/first-asf-outbreak-in-malaysia_17167/
+3;MN001;wild;25/02/2022;sabah;beluran;;;pig333;1;district;https://www.pig333.com/latest_swine_news/first-asf-outbreak-in-malaysia_17167/
+5;MN003;wild;17/12/2021;pahang;temerloh;jerantut;;bernama;1;;https://www.bernama.com/bm/news.php?id=2034893
+6;MN003;wild;17/12/2021;perak;batang padang;sungkai;;bernama;1;;https://www.bernama.com/bm/news.php?id=2034893
+7;MN003;wild;17/12/2021;perak;batang padang;bidor;;bernama;1;;https://www.bernama.com/bm/news.php?id=2034893
+9;MN005;domestic;24/12/2021;melaka;melaka tengah;masjid tanah;paya mengkuang;hmetro;;district;https://www.hmetro.com.my/mutakhir/2021/12/792494/penyakit-demam-babi-afrika-dikesan-di-melaka
+13;MN009;domestic;09/04/2022;kelantan;tanah merah;;kampung baru site A;sinarharian;2;kampung;https://www.sinarharian.com.my/article/197124/berita/semasa/penyakit-asf-dikesan-di-ladang-babi-port-dickson
+14;MN010;wild;20/06/2022;terengganu;kemaman;;kampung air putih kemaman;hmetro;91;state;https://www.hmetro.com.my/mutakhir/2022/07/859012/91-babi-mati-akibat-asf
+15;MN011;domestic;17/09/2022;perak;kerian;;;hmetro;;;https://www.hmetro.com.my/mutakhir/2022/09/883577/penyakit-demam-babi-afrika-dikesan-di-dua-ladang-dalam-daerah-kerian
+18;MN014;domestic;07/01/2023;perak;batang padang;bidor;;astroawani;;;https://www.astroawani.com/berita-malaysia/empat-kes-demam-babi-afrika-di-perak-sejak-disember-402039
+19;MN014;domestic;07/01/2023;perak;kuala kangsar;sungai siput;;astroawani;;;https://www.astroawani.com/berita-malaysia/empat-kes-demam-babi-afrika-di-perak-sejak-disember-402039
+23;MN017;domestic;27/10/2023;perak;batu gajah;tronoh;;nst;;state;https://www.nst.com.my/news/nation/2023/12/985357/exco-nine-asf-cases-detected-perak-over-19000-infected-pigs-culled
+27;MN020;domestic;13/01/2023;pulau pinang;seberang perai selatan;;;malaysianow;;;https://www.malaysianow.com/news/2023/02/03/african-swine-fever-spreads-to-southwest-penang
+28;MN020;domestic;13/01/2023;pulau pinang;seberang perai tengah;;;malaysianow;62197;state;https://www.malaysianow.com/news/2023/02/03/african-swine-fever-spreads-to-southwest-penang
+29;MN020;domestic;13/01/2023;pulau pinang;seberang perai utara;;;malaysianow;;;https://www.malaysianow.com/news/2023/02/03/african-swine-fever-spreads-to-southwest-penang
+32;MN023;domestic;12/01/2025;sabah;keningau;;;fmt;12;district;https://www.freemalaysiatoday.com/category/nation/2025/01/12/african-swine-fever-detected-in-keningau-says-jeffrey/
+34;MN025;domestic;12/12/2024;sarawak;serian;;;tbp;;;https://www.theborneopost.com/2024/12/12/asf-outbreak-all-pigs-in-affected-serian-farms-culled-says-dvss-director/
+35;MN025;domestic;12/12/2024;sarawak;tebedu;;;tbp;;;https://www.theborneopost.com/2024/12/12/asf-outbreak-all-pigs-in-affected-serian-farms-culled-says-dvss-director/
+36;MN026;domestic;06/02/2025;selangor;sepang;;;thestar;;;https://www.thestar.com.my/metro/metro-news/2025/02/06/african-swine-fever-detected-at-two-farms-in-sepang-kuala-langat-says-s039gor-dvs
+37;MN026;domestic;06/02/2025;selangor;kuala langat;;;thestar;;;https://www.thestar.com.my/metro/metro-news/2025/02/06/african-swine-fever-detected-at-two-farms-in-sepang-kuala-langat-says-s039gor-dvs
+;;;;;;;;;62305;;
+;;;;;;;;;96;;

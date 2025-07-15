@@ -1,0 +1,325 @@
+nomor;doc_id;species;date_publish;province;regency;subdistrict;village;source_web;carcase;level;url
+1;N029;domestic;08/10/2019;sulawesi utara;minahasa;remboken;timu;kumparan;100;regency;https://kumparan.com/manadobacirita/100-ternak-babi-mati-mendadak-di-minahasa-dalam-3-bulan-1s0y657fN1W
+2;N024;domestic;09/10/2019;sumatera utara;tapanuli utara;siatas barita;lumban siagian julu;tribun_medan;40;village;https://medan.tribunnews.com/2019/10/09/kolera-babi-serang-ternak-warga-tarutung-siatas-barita-babi-menggigil-lalu-mati
+3;N025;domestic;15/10/2019;sumatera utara;dairi;tigalingga;tigalingga;tagar;700;subdistrict;https://www.tagar.id/700an-babi-mati-diserang-virus-aneh-di-dairi
+4;N020;domestic;23/10/2019;sumatera utara;deli serdang;undetected;undetected;kumparan;1985;regency;https://kumparan.com/sumutnews/1-985-ekor-ternak-babi-di-sumut-terserang-virus-hog-cholera-1s71sNaT3KF
+5;N020;domestic;23/10/2019;sumatera utara;humbang hasundutan;undetected;undetected;kumparan;;;https://kumparan.com/sumutnews/1-985-ekor-ternak-babi-di-sumut-terserang-virus-hog-cholera-1s71sNaT3KF
+6;N020;domestic;23/10/2019;sumatera utara;karo;undetected;undetected;kumparan;;;https://kumparan.com/sumutnews/1-985-ekor-ternak-babi-di-sumut-terserang-virus-hog-cholera-1s71sNaT3KF
+7;N020;domestic;23/10/2019;sumatera utara;samosir;undetected;undetected;kumparan;;;https://kumparan.com/sumutnews/1-985-ekor-ternak-babi-di-sumut-terserang-virus-hog-cholera-1s71sNaT3KF
+8;N020;domestic;23/10/2019;sumatera utara;serdang bedagai;undetected;undetected;kumparan;;;https://kumparan.com/sumutnews/1-985-ekor-ternak-babi-di-sumut-terserang-virus-hog-cholera-1s71sNaT3KF
+9;N020;domestic;23/10/2019;sumatera utara;simalungun;undetected;undetected;kumparan;;;https://kumparan.com/sumutnews/1-985-ekor-ternak-babi-di-sumut-terserang-virus-hog-cholera-1s71sNaT3KF
+10;N020;domestic;23/10/2019;sumatera utara;tapanuli utara;undetected;undetected;kumparan;;;https://kumparan.com/sumutnews/1-985-ekor-ternak-babi-di-sumut-terserang-virus-hog-cholera-1s71sNaT3KF
+11;N020;domestic;23/10/2019;sumatera utara;toba;undetected;undetected;kumparan;;;https://kumparan.com/sumutnews/1-985-ekor-ternak-babi-di-sumut-terserang-virus-hog-cholera-1s71sNaT3KF
+12;N004;domestic;07/11/2019;sumatera utara;deli serdang;sunggal;helvetia;kompas_id;;;https://www.kompas.id/baca/utama/2019/11/07/kolera-mewabah-lebih-dari-4-600-babi-mati-di-sumut/
+13;N004;domestic;07/11/2019;sumatera utara;humbang hasundutan;undetected;undetected;kompas_id;;;https://www.kompas.id/baca/utama/2019/11/07/kolera-mewabah-lebih-dari-4-600-babi-mati-di-sumut/
+14;N004;domestic;07/11/2019;sumatera utara;karo;undetected;undetected;kompas_id;;;https://www.kompas.id/baca/utama/2019/11/07/kolera-mewabah-lebih-dari-4-600-babi-mati-di-sumut/
+15;N004;domestic;07/11/2019;sumatera utara;kota medan;undetected;undetected;kompas_id;;;https://www.kompas.id/baca/utama/2019/11/07/kolera-mewabah-lebih-dari-4-600-babi-mati-di-sumut/
+16;N004;domestic;07/11/2019;sumatera utara;pakpak bharat;undetected;undetected;kompas_id;;;https://www.kompas.id/baca/utama/2019/11/07/kolera-mewabah-lebih-dari-4-600-babi-mati-di-sumut/
+17;N004;domestic;07/11/2019;sumatera utara;samosir;undetected;undetected;kompas_id;;;https://www.kompas.id/baca/utama/2019/11/07/kolera-mewabah-lebih-dari-4-600-babi-mati-di-sumut/
+18;N004;domestic;07/11/2019;sumatera utara;simalungun;undetected;undetected;kompas_id;;;https://www.kompas.id/baca/utama/2019/11/07/kolera-mewabah-lebih-dari-4-600-babi-mati-di-sumut/
+19;N004;domestic;07/11/2019;sumatera utara;tapanuli utara;undetected;undetected;kompas_id;;;https://www.kompas.id/baca/utama/2019/11/07/kolera-mewabah-lebih-dari-4-600-babi-mati-di-sumut/
+20;N004;domestic;07/11/2019;sumatera utara;toba;undetected;undetected;kompas_id;;;https://www.kompas.id/baca/utama/2019/11/07/kolera-mewabah-lebih-dari-4-600-babi-mati-di-sumut/
+21;N015;domestic;08/11/2019;sumatera utara;serdang bedagai;undetected;undetected;kompas_id;;;https://www.kompas.id/baca/nusantara/2019/11/08/wabah-kolera-babi-pukul-peternakan-rakyat-di-sumut
+22;N001;domestic;09/11/2019;sumatera utara;dairi;berampu;berampu;bbc_news;;;https://www.bbc.com/indonesia/indonesia-50342554
+23;N001;domestic;09/11/2019;sumatera utara;tapanuli selatan;undetected;undetected;bbc_news;;;https://www.bbc.com/indonesia/indonesia-50342554
+24;N005;domestic;07/12/2019;sumatera utara;dairi;undetected;undetected;antara_sumbar;;;https://sumbar.antaranews.com/berita/311600/22985-ekor-babi-mati-di-sumut-akibat-virus-kolera-babi
+25;N005;domestic;07/12/2019;sumatera utara;humbang hasundutan;undetected;undetected;antara_sumbar;;;https://sumbar.antaranews.com/berita/311600/22985-ekor-babi-mati-di-sumut-akibat-virus-kolera-babi
+26;N005;domestic;07/12/2019;sumatera utara;karo;undetected;undetected;antara_sumbar;;;https://sumbar.antaranews.com/berita/311600/22985-ekor-babi-mati-di-sumut-akibat-virus-kolera-babi
+27;N005;domestic;07/12/2019;sumatera utara;langkat;undetected;undetected;antara_sumbar;;;https://sumbar.antaranews.com/berita/311600/22985-ekor-babi-mati-di-sumut-akibat-virus-kolera-babi
+28;N005;domestic;07/12/2019;sumatera utara;pakpak bharat;undetected;undetected;antara_sumbar;;;https://sumbar.antaranews.com/berita/311600/22985-ekor-babi-mati-di-sumut-akibat-virus-kolera-babi
+29;N005;domestic;07/12/2019;sumatera utara;samosir;undetected;undetected;antara_sumbar;;;https://sumbar.antaranews.com/berita/311600/22985-ekor-babi-mati-di-sumut-akibat-virus-kolera-babi
+30;N005;domestic;07/12/2019;sumatera utara;serdang bedagai;undetected;undetected;antara_sumbar;;;https://sumbar.antaranews.com/berita/311600/22985-ekor-babi-mati-di-sumut-akibat-virus-kolera-babi
+31;N005;domestic;07/12/2019;sumatera utara;simalungun;undetected;undetected;antara_sumbar;;;https://sumbar.antaranews.com/berita/311600/22985-ekor-babi-mati-di-sumut-akibat-virus-kolera-babi
+32;N005;domestic;07/12/2019;sumatera utara;tapanuli selatan;undetected;undetected;antara_sumbar;;;https://sumbar.antaranews.com/berita/311600/22985-ekor-babi-mati-di-sumut-akibat-virus-kolera-babi
+33;N005;domestic;07/12/2019;sumatera utara;tapanuli utara;undetected;undetected;antara_sumbar;;;https://sumbar.antaranews.com/berita/311600/22985-ekor-babi-mati-di-sumut-akibat-virus-kolera-babi
+34;N005;domestic;07/12/2019;sumatera utara;toba;undetected;undetected;antara_sumbar;;;https://sumbar.antaranews.com/berita/311600/22985-ekor-babi-mati-di-sumut-akibat-virus-kolera-babi
+35;N006;domestic;07/12/2019;sumatera utara;deli serdang;sunggal;helvetia;kompas_id;23000;regency;https://www.kompas.id/baca/utama/2019/12/07/kematian-ternak-akibat-demam-babi-afrika-masih-terjadi-di-sumut
+36;N028;domestic;11/12/2019;bali;jembrana;jembrana;undetected;tribun_bali;;;https://bali.tribunnews.com/2019/12/11/beredar-info-8-ekor-babi-mati-mendadak-di-denpasar-begini-kata-kadis-pertanian-kota-denpasar
+37;N028;domestic;11/12/2019;bali;kota denpasar;undetected;undetected;tribun_bali;;;https://bali.tribunnews.com/2019/12/11/beredar-info-8-ekor-babi-mati-mendadak-di-denpasar-begini-kata-kadis-pertanian-kota-denpasar
+38;N028;domestic;11/12/2019;bali;tabanan;undetected;undetected;tribun_bali;;;https://bali.tribunnews.com/2019/12/11/beredar-info-8-ekor-babi-mati-mendadak-di-denpasar-begini-kata-kadis-pertanian-kota-denpasar
+39;N018;domestic;20/12/2019;sumatera utara;dairi;undetected;undetected;kompas_id;30803;regency;https://www.kompas.id/baca/utama/2019/12/20/daerah-wabah-demam-babi-afrika-bertambah
+40;N018;domestic;20/12/2019;sumatera utara;humbang hasundutan;undetected;undetected;kompas_id;;;https://www.kompas.id/baca/utama/2019/12/20/daerah-wabah-demam-babi-afrika-bertambah
+41;N018;domestic;20/12/2019;sumatera utara;kota medan;undetected;undetected;kompas_id;;;https://www.kompas.id/baca/utama/2019/12/20/daerah-wabah-demam-babi-afrika-bertambah
+42;N018;domestic;20/12/2019;sumatera utara;mandailing natal;undetected;undetected;kompas_id;;;https://www.kompas.id/baca/utama/2019/12/20/daerah-wabah-demam-babi-afrika-bertambah
+43;N018;domestic;20/12/2019;sumatera utara;pakpak bharat;undetected;undetected;kompas_id;;;https://www.kompas.id/baca/utama/2019/12/20/daerah-wabah-demam-babi-afrika-bertambah
+44;N018;domestic;20/12/2019;sumatera utara;tapanuli utara;undetected;undetected;kompas_id;;;https://www.kompas.id/baca/utama/2019/12/20/daerah-wabah-demam-babi-afrika-bertambah
+45;N002;domestic;21/12/2019;sumatera utara;karo;undetected;undetected;voa_indonesia;;;https://www.voaindonesia.com/a/demam-babi-afrika-mewabah-di-sumut-30-000-babi-mati/5213961.html
+46;N002;domestic;21/12/2019;sumatera utara;langkat;undetected;undetected;voa_indonesia;;;https://www.voaindonesia.com/a/demam-babi-afrika-mewabah-di-sumut-30-000-babi-mati/5213961.html
+47;N002;domestic;21/12/2019;sumatera utara;samosir;undetected;undetected;voa_indonesia;;;https://www.voaindonesia.com/a/demam-babi-afrika-mewabah-di-sumut-30-000-babi-mati/5213961.html
+48;N002;domestic;21/12/2019;sumatera utara;serdang bedagai;undetected;undetected;voa_indonesia;;;https://www.voaindonesia.com/a/demam-babi-afrika-mewabah-di-sumut-30-000-babi-mati/5213961.html
+49;N002;domestic;21/12/2019;sumatera utara;simalungun;undetected;undetected;voa_indonesia;;;https://www.voaindonesia.com/a/demam-babi-afrika-mewabah-di-sumut-30-000-babi-mati/5213961.html
+50;N002;domestic;21/12/2019;sumatera utara;tapanuli selatan;undetected;undetected;voa_indonesia;;;https://www.voaindonesia.com/a/demam-babi-afrika-mewabah-di-sumut-30-000-babi-mati/5213961.html
+51;N002;domestic;21/12/2019;sumatera utara;toba;undetected;undetected;voa_indonesia;;;https://www.voaindonesia.com/a/demam-babi-afrika-mewabah-di-sumut-30-000-babi-mati/5213961.html
+52;N007;domestic;26/12/2019;sumatera utara;deli serdang;hamparan perak;hamparan perak;cnbc_indonesia;27070;regency;https://www.cnbcindonesia.com/news/20191226184808-4-125866/wabah-flu-babi-serang-sumut-sudah-mengkhawatirkan
+53;N027;domestic;27/12/2019;bali;badung;undetected;undetected;antara;10020;regency;https://www.antaranews.com/berita/1225899/pemprov-bali-petakan-25-titik-berisiko-terkena-virus-demam-babi-afrika
+54;N027;domestic;27/12/2019;bali;bangli;undetected;undetected;antara;;;https://www.antaranews.com/berita/1225899/pemprov-bali-petakan-25-titik-berisiko-terkena-virus-demam-babi-afrika
+55;N027;domestic;27/12/2019;bali;buleleng;undetected;undetected;antara;;;https://www.antaranews.com/berita/1225899/pemprov-bali-petakan-25-titik-berisiko-terkena-virus-demam-babi-afrika
+56;N027;domestic;27/12/2019;bali;gianyar;gianyar;undetected;antara;;;https://www.antaranews.com/berita/1225899/pemprov-bali-petakan-25-titik-berisiko-terkena-virus-demam-babi-afrika
+57;N027;domestic;27/12/2019;bali;jembrana;undetected;undetected;antara;;;https://www.antaranews.com/berita/1225899/pemprov-bali-petakan-25-titik-berisiko-terkena-virus-demam-babi-afrika
+58;N027;domestic;27/12/2019;bali;karangasem;karangasem;karangasem;antara;;;https://www.antaranews.com/berita/1225899/pemprov-bali-petakan-25-titik-berisiko-terkena-virus-demam-babi-afrika
+59;N027;domestic;27/12/2019;bali;klungkung;undetected;undetected;antara;;;https://www.antaranews.com/berita/1225899/pemprov-bali-petakan-25-titik-berisiko-terkena-virus-demam-babi-afrika
+60;N027;domestic;27/12/2019;bali;kota denpasar;undetected;undetected;antara;;;https://www.antaranews.com/berita/1225899/pemprov-bali-petakan-25-titik-berisiko-terkena-virus-demam-babi-afrika
+61;N027;domestic;27/12/2019;bali;tabanan;undetected;undetected;antara;;;https://www.antaranews.com/berita/1225899/pemprov-bali-petakan-25-titik-berisiko-terkena-virus-demam-babi-afrika
+62;N079;domestic;14/01/2020;sumatera utara;dairi;tigalingga;tigalingga;tribun_medan;12668;regency;https://medan.tribunnews.com/2020/01/14/ternak-babi-mati-karena-virus-di-dairi-sudah-tembus-12-ribu
+63;N092;domestic;20/01/2020;bali;badung;mengwi;undetected;tribun_bali;;;https://bali.tribunnews.com/2020/01/20/sentra-ternak-di-wilayah-bali-ini-keluhkan-banyak-babi-mati-dinas-langsung-cek-laboratorium
+64;N091;domestic;21/01/2020;bali;tabanan;penebel;undetected;tribun_bali;;;https://bali.tribunnews.com/2020/01/21/puluhan-babi-mati-di-desa-jebu-bali-ciri-bintik-bintik-merah-mirip-demam-babi-afrika
+65;N053;domestic;31/01/2020;bali;gianyar;gianyar;gianyar;tribun_bali;36;regency;https://bali.tribunnews.com/2020/01/31/kematian-babi-mendadak-di-bali-kini-merambat-ke-gianyar-36-ekor-mati-secara-misterius-di-sukawati
+66;N046;domestic;01/02/2020;bali;bangli;undetected;undetected;tribun_bali;;;https://bali.tribunnews.com/2020/02/01/jerit-perih-peternak-babi-di-bali?page=all
+67;N046;domestic;01/02/2020;bali;buleleng;undetected;undetected;tribun_bali;;;https://bali.tribunnews.com/2020/02/01/jerit-perih-peternak-babi-di-bali?page=all
+68;N046;domestic;01/02/2020;bali;karangasem;selat;selat;tribun_bali;;;https://bali.tribunnews.com/2020/02/01/jerit-perih-peternak-babi-di-bali?page=all
+69;N046;domestic;01/02/2020;bali;klungkung;klungkung;selat;tribun_bali;;;https://bali.tribunnews.com/2020/02/01/jerit-perih-peternak-babi-di-bali?page=all
+70;N046;domestic;01/02/2020;bali;kota denpasar;undetected;undetected;tribun_bali;;;https://bali.tribunnews.com/2020/02/01/jerit-perih-peternak-babi-di-bali?page=all
+71;N034;domestic;04/02/2020;bali;badung;kuta;kuta;cnn_indonesia;1191;regency;https://www.cnnindonesia.com/teknologi/20200204104837-199-471431/ribuan-mati-di-bali-flu-babi-disebut-susah-jangkiti-manusia
+72;N098;domestic;06/02/2020;bali;jembrana;jembrana;undetected;antara_bali;;;https://bali.antaranews.com/berita/179159/tiga-babi-peternak-jembrana-mati-mendadak
+73;N078;domestic;20/02/2020;bali;karangasem;manggis;manggis;tribun_bali;2;village;https://bali.tribunnews.com/2020/02/20/babi-tiba-tiba-sakit-dan-kejang-kejang-babi-mati-mendadak-di-tenganan-pegringsingan-karangasem
+74;N035;domestic;21/02/2020;nusa tenggara timur;alor;undetected;undetected;kompas_id;1076;regency;https://www.kompas.id/baca/nusantara/2020/02/21/ribuan-babi-mati-di-empat-kabupaten-kota-di-ntt
+75;N035;domestic;21/02/2020;nusa tenggara timur;kota kupang;alak;alak;kompas_id;;;https://www.kompas.id/baca/nusantara/2020/02/21/ribuan-babi-mati-di-empat-kabupaten-kota-di-ntt
+76;N035;domestic;21/02/2020;nusa tenggara timur;kupang;undetected;undetected;kompas_id;;;https://www.kompas.id/baca/nusantara/2020/02/21/ribuan-babi-mati-di-empat-kabupaten-kota-di-ntt
+77;N035;domestic;21/02/2020;nusa tenggara timur;lembata;undetected;undetected;kompas_id;;;https://www.kompas.id/baca/nusantara/2020/02/21/ribuan-babi-mati-di-empat-kabupaten-kota-di-ntt
+78;N035;domestic;21/02/2020;nusa tenggara timur;malaka;malaka barat;motaain;kompas_id;;;https://www.kompas.id/baca/nusantara/2020/02/21/ribuan-babi-mati-di-empat-kabupaten-kota-di-ntt
+79;N050;domestic;24/02/2020;sumatera barat;kepulauan mentawai;sipora utara;bukit pamewa;okezone;6000;regency;https://news.okezone.com/read/2020/02/24/340/2173092/6-babi-di-mentawai-mati-diduga-terserang-virus-asf
+80;N061;domestic;25/02/2020;bali;badung;undetected;undetected;tribun_bali;118;village;https://bali.tribunnews.com/2020/02/25/116-ekor-babi-pt-abs-di-buleleng-juga-mati-masyarakat-diminta-tak-resah?page=1
+81;N061;domestic;25/02/2020;bali;buleleng;buleleng;undetected;tribun_bali;;;https://bali.tribunnews.com/2020/02/25/116-ekor-babi-pt-abs-di-buleleng-juga-mati-masyarakat-diminta-tak-resah?page=1
+82;N105;domestic;25/02/2020;nusa tenggara timur;belu;kota atambua;kota atambua;kompas_regional;574;regency;https://regional.kompas.com/read/2020/02/25/18040661/terkena-virus-flu-babi-afrika-574-babi-mati-di-belu
+83;N086;domestic;27/02/2020;nusa tenggara timur;sumba timur;undetected;undetected;tempo;90;regency;https://tekno.tempo.co/read/1313113/virus-african-swine-fever-serang-babi-di-ntt-90-induk-mati#google_vignette
+84;N076;domestic;03/03/2020;nusa tenggara timur;sikka;nita;nita;tribun_kupang;;;https://kupang.tribunnews.com/2020/03/03/belasan-ekor-ternak-babi-di-kangae-sikka-mati
+85;N033;domestic;10/03/2020;sumatera barat;kepulauan mentawai;sipora selatan;saureinu;kompas_id;7500;regency;https://www.kompas.id/baca/nusantara/2020/03/10/sedikitnya-7-500-babi-di-mentawai-mati-akibat-asf
+86;N033;domestic;10/03/2020;sumatera barat;pasaman;undetected;undetected;kompas_id;;;https://www.kompas.id/baca/nusantara/2020/03/10/sedikitnya-7-500-babi-di-mentawai-mati-akibat-asf
+87;N033;domestic;10/03/2020;sumatera barat;pasaman barat;undetected;undetected;kompas_id;;;https://www.kompas.id/baca/nusantara/2020/03/10/sedikitnya-7-500-babi-di-mentawai-mati-akibat-asf
+88;N043;domestic;13/03/2020;nusa tenggara timur;alor;undetected;undetected;tirto;4888;regency;https://tirto.id/4888-ekor-babi-di-pulau-timor-ntt-mati-terserang-virus-flu-afrika-eENY#google_vignette
+89;N043;domestic;13/03/2020;nusa tenggara timur;belu;undetected;undetected;tirto;;;https://tirto.id/4888-ekor-babi-di-pulau-timor-ntt-mati-terserang-virus-flu-afrika-eENY#google_vignette
+90;N043;domestic;13/03/2020;nusa tenggara timur;kota kupang;alak;alak;tirto;;;https://tirto.id/4888-ekor-babi-di-pulau-timor-ntt-mati-terserang-virus-flu-afrika-eENY#google_vignette
+91;N043;domestic;13/03/2020;nusa tenggara timur;malaka;undetected;undetected;tirto;;;https://tirto.id/4888-ekor-babi-di-pulau-timor-ntt-mati-terserang-virus-flu-afrika-eENY#google_vignette
+92;N074;domestic;31/03/2020;bali;jembrana;jembrana;undetected;okezone;272;regency;https://news.okezone.com/read/2020/03/31/244/2191818/jumlah-babi-mati-di-jembrana-bali-terus-bertambah
+93;N044;domestic;28/04/2020;bali;tabanan;kediri;undetected;tribun;17159;regency;https://www.tribunnews.com/regional/2020/04/28/17-ribu-ekor-babi-mati-mendadak-di-tabanan-bali
+94;N081;domestic;28/04/2020;nusa tenggara timur;kupang;undetected;undetected;suara;6998;province;https://www.suara.com/bisnis/2020/04/28/173000/ribuan-babi-di-pulau-timor-mati-akibat-virus-asf
+95;N045;domestic;30/04/2020;sumatera utara;kota gunungsitoli;undetected;undetected;medan_bisnis;100;regency;https://medanbisnisdaily.com/news/online/read/2020/04/30/106998/wabah_penyakit_babi_meluas_100_ekor_mati_mendadak_di_kota_gunungsitoli/
+96;N045;domestic;30/04/2020;sumatera utara;nias;undetected;undetected;medan_bisnis;;;https://medanbisnisdaily.com/news/online/read/2020/04/30/106998/wabah_penyakit_babi_meluas_100_ekor_mati_mendadak_di_kota_gunungsitoli/
+97;N045;domestic;30/04/2020;sumatera utara;nias selatan;undetected;undetected;medan_bisnis;;;https://medanbisnisdaily.com/news/online/read/2020/04/30/106998/wabah_penyakit_babi_meluas_100_ekor_mati_mendadak_di_kota_gunungsitoli/
+98;N087;domestic;11/05/2020;bali;badung;undetected;undetected;tribun_bali;;;https://bali.tribunnews.com/2020/05/11/kasus-babi-mati-mendadak-di-karangasem-terus-terjadi-hingga-kini-gejala-kematian-hampir-sama
+99;N087;domestic;11/05/2020;bali;karangasem;abang;undetected;tribun_bali;;;https://bali.tribunnews.com/2020/05/11/kasus-babi-mati-mendadak-di-karangasem-terus-terjadi-hingga-kini-gejala-kematian-hampir-sama
+100;N036;domestic;03/07/2020;sumatera selatan;kota palembang;undetected;undetected;antara_sumsel;878;subdistrict;https://sumsel.antaranews.com/berita/482414/ratusan-ternak-babi-mati-mendadak-di-kota-palembang-diduga-terserang-demam-afrika
+101;N106;domestic;03/07/2020;nusa tenggara timur;alor;undetected;undetected;antara;22000;province;https://www.antaranews.com/berita/1588646/kematian-babi-di-ntt-akibat-virus-asf-capai-22000-an
+102;N106;domestic;03/07/2020;nusa tenggara timur;belu;undetected;undetected;antara;;;https://www.antaranews.com/berita/1588646/kematian-babi-di-ntt-akibat-virus-asf-capai-22000-an
+103;N106;domestic;03/07/2020;nusa tenggara timur;kota kupang;undetected;undetected;antara;;;https://www.antaranews.com/berita/1588646/kematian-babi-di-ntt-akibat-virus-asf-capai-22000-an
+104;N106;domestic;03/07/2020;nusa tenggara timur;kupang;undetected;undetected;antara;;;https://www.antaranews.com/berita/1588646/kematian-babi-di-ntt-akibat-virus-asf-capai-22000-an
+105;N106;domestic;03/07/2020;nusa tenggara timur;sikka;undetected;undetected;antara;;;https://www.antaranews.com/berita/1588646/kematian-babi-di-ntt-akibat-virus-asf-capai-22000-an
+106;N066;domestic;04/07/2020;nusa tenggara timur;flores timur;undetected;undetected;antara_ntt;;;https://kupang.antaranews.com/berita/35186/puluhan-ribu-ternak-babi-di-ntt-mati-terserang-virus-asf
+107;N072;domestic;16/07/2020;nusa tenggara timur;belu;undetected;undetected;regional_kontan;;;https://regional.kontan.co.id/news/sebanyak-2000-babi-di-sumba-timur-mati-diduga-karena-terserang-flu-babi-afrika
+108;N072;domestic;16/07/2020;nusa tenggara timur;sumba timur;wulla waijelu;wulla;regional_kontan;;;https://regional.kontan.co.id/news/sebanyak-2000-babi-di-sumba-timur-mati-diduga-karena-terserang-flu-babi-afrika
+109;N090;domestic;16/07/2020;nusa tenggara timur;ende;detusoko;detusoko;tribun;469;regency;https://www.tribunnews.com/regional/2020/07/16/469-ekor-babi-di-ende-mati-kena-flu-babi-afrika-alami-demam-hingga-keluar-cairan-dari-dubur
+110;N108;domestic;16/07/2020;nusa tenggara timur;kupang;undetected;undetected;kompas_regional;6919;regency;https://regional.kompas.com/read/2020/07/16/21311511/6919-ternak-babi-mati-diserang-virus-asf-pemkab-belu-harap-bantuan-segera
+111;N104;domestic;19/07/2020;nusa tenggara timur;alor;undetected;undetected;kompas_regional;24882;province;https://regional.kompas.com/read/2020/07/19/10174731/24822-ternak-babi-di-ntt-mati-akibat-virus-asf?page=all
+112;N104;domestic;19/07/2020;nusa tenggara timur;kota kupang;alak;alak;kompas_regional;;;https://regional.kompas.com/read/2020/07/19/10174731/24822-ternak-babi-di-ntt-mati-akibat-virus-asf?page=all
+113;N104;domestic;19/07/2020;nusa tenggara timur;malaka;undetected;undetected;kompas_regional;;;https://regional.kompas.com/read/2020/07/19/10174731/24822-ternak-babi-di-ntt-mati-akibat-virus-asf?page=all
+114;N104;domestic;19/07/2020;nusa tenggara timur;rote ndao;undetected;undetected;kompas_regional;;;https://regional.kompas.com/read/2020/07/19/10174731/24822-ternak-babi-di-ntt-mati-akibat-virus-asf?page=all
+115;N104;domestic;19/07/2020;nusa tenggara timur;sabu raijua;undetected;undetected;kompas_regional;;;https://regional.kompas.com/read/2020/07/19/10174731/24822-ternak-babi-di-ntt-mati-akibat-virus-asf?page=all
+116;N104;domestic;19/07/2020;nusa tenggara timur;sumba barat;undetected;undetected;kompas_regional;;;https://regional.kompas.com/read/2020/07/19/10174731/24822-ternak-babi-di-ntt-mati-akibat-virus-asf?page=all
+117;N104;domestic;19/07/2020;nusa tenggara timur;sumba barat daya;undetected;undetected;kompas_regional;;;https://regional.kompas.com/read/2020/07/19/10174731/24822-ternak-babi-di-ntt-mati-akibat-virus-asf?page=all
+118;N111;domestic;14/08/2020;nusa tenggara timur;manggarai;undetected;undetected;posflores;239;regency;https://www.posflores.com/nasional/pr-4413144580/239-ekor-babi-di-matim-mati-kadis-segera-laporkan-ke-petugas
+119;N111;domestic;14/08/2020;nusa tenggara timur;manggarai timur;kota komba;komba;posflores;;;https://www.posflores.com/nasional/pr-4413144580/239-ekor-babi-di-matim-mati-kadis-segera-laporkan-ke-petugas
+120;N060;domestic;30/10/2020;nusa tenggara timur;manggarai;undetected;undetected;metro7;;;https://metro7.co.id/nasional/nusa-tenggara-timur-ntt/ratusan-babi-mati-terkapar-diduga-terpapar-bakteri-streptococcus/2020/
+121;N060;domestic;30/10/2020;nusa tenggara timur;manggarai barat;lembor selatan;modo;metro7;;;https://metro7.co.id/nasional/nusa-tenggara-timur-ntt/ratusan-babi-mati-terkapar-diduga-terpapar-bakteri-streptococcus/2020/
+122;N084;domestic;04/01/2021;jawa tengah;klaten;jatinom;jatinom;solopos;11;village;https://solopos.espos.id/puluhan-babi-di-klaten-mati-mendadak-terserang-virus-yang-belum-ada-obatnya-1100488
+123;N084;domestic;04/01/2021;jawa tengah;sukoharjo;sukoharjo;sukoharjo;solopos;;;https://solopos.espos.id/puluhan-babi-di-klaten-mati-mendadak-terserang-virus-yang-belum-ada-obatnya-1100488
+124;N129;domestic;09/01/2021;nusa tenggara timur;flores timur;adonara;adonara;antara;200;subdistrict;https://www.antaranews.com/berita/1935920/ratusan-ekor-babi-milik-warga-di-flores-timur-mati-mendadak
+125;N129;domestic;09/01/2021;nusa tenggara timur;kupang;undetected;undetected;antara;;;https://www.antaranews.com/berita/1935920/ratusan-ekor-babi-milik-warga-di-flores-timur-mati-mendadak
+126;N073;domestic;14/01/2021;nusa tenggara timur;ende;undetected;undetected;media_indonesia;;;https://mediaindonesia.com/nusantara/376913/100-ekor-babi-mati-mendadak-di-sikka-diduga-terpapar-virus-afrika
+127;N073;domestic;14/01/2021;nusa tenggara timur;nagekeo;undetected;undetected;media_indonesia;;;https://mediaindonesia.com/nusantara/376913/100-ekor-babi-mati-mendadak-di-sikka-diduga-terpapar-virus-afrika
+128;N073;domestic;14/01/2021;nusa tenggara timur;sikka;paga;paga;media_indonesia;;;https://mediaindonesia.com/nusantara/376913/100-ekor-babi-mati-mendadak-di-sikka-diduga-terpapar-virus-afrika
+129;N130;domestic;22/01/2021;nusa tenggara timur;kupang;undetected;undetected;antara_lampung;800;regency;https://lampung.antaranews.com/berita/475484/ratusan-ekor-babi-milik-warga-lembata-mati-terserang-asf
+130;N130;domestic;22/01/2021;nusa tenggara timur;lembata;undetected;undetected;antara_lampung;;;https://lampung.antaranews.com/berita/475484/ratusan-ekor-babi-milik-warga-lembata-mati-terserang-asf
+131;N137;domestic;26/01/2021;nusa tenggara timur;belu;undetected;undetected;media_kupang;865;regency;https://mediakupang.pikiran-rakyat.com/rakyat-flores/pr-1381333729/virus-asf-serang-nelle-sikka-865-ternak-babi-mati-kerugian-capai-2-miliar-lebih?page=all
+132;N137;domestic;26/01/2021;nusa tenggara timur;sikka;nelle;manubura;media_kupang;;;https://mediakupang.pikiran-rakyat.com/rakyat-flores/pr-1381333729/virus-asf-serang-nelle-sikka-865-ternak-babi-mati-kerugian-capai-2-miliar-lebih?page=all
+133;N132;domestic;26/02/2021;bali;karangasem;kubu;ban;bali_tribune;;;https://balitribune.co.id/content/puluhan-babi-mati-mendadak
+134;N148;domestic;18/03/2021;kepulauan bangka belitung;bangka;riau silip;riau;tribun_bangka;600;regency;https://bangka.tribunnews.com/index.php2021/03/18/600-ternak-babi-di-kabupaten-bangka-mati-terserang-asf-alias-flu-afrika?jxrecoid=23d37dce-d71b-4c9b-9fbe-6783c7034602~mix_tribunnews?source=widgetArtikelRekomendasi&engine=JXA
+135;N148;domestic;18/03/2021;kepulauan bangka belitung;belitung;undetected;undetected;tribun_bangka;;;https://bangka.tribunnews.com/index.php2021/03/18/600-ternak-babi-di-kabupaten-bangka-mati-terserang-asf-alias-flu-afrika?jxrecoid=23d37dce-d71b-4c9b-9fbe-6783c7034602~mix_tribunnews?source=widgetArtikelRekomendasi&engine=JXA
+136;N122;wild;31/03/2021;sumatera selatan;ogan komering ulu;peninjauan;peninjauan;antara;10;subdistrict;https://www.antaranews.com/berita/2073194/virus-african-swine-fever-serang-puluhan-babi-hutan-di-oku-sumsel
+137;N115;wild;21/05/2021;sumatera selatan;musi rawas;undetected;undetected;tribun;;;https://www.tribunnews.com/regional/2021/05/21/sejumlah-babi-hutan-mati-secara-misterius-di-musi-rawas-utara-ini-pengakuan-warga
+138;N115;wild;21/05/2021;sumatera selatan;musi rawas utara;rawas ilir;bingin teluk;tribun;;;https://www.tribunnews.com/regional/2021/05/21/sejumlah-babi-hutan-mati-secara-misterius-di-musi-rawas-utara-ini-pengakuan-warga
+139;N131;domestic;22/05/2021;kalimantan timur;berau;gunung tabur;gunung tabur;headline_kaltim;62;village;https://headlinekaltim.co/ternak-babi-mati-massal-di-berau-diduga-virus-hog-cholera-menular-ke-manusia/
+140;N131;domestic;22/05/2021;kalimantan timur;kota samarinda;sungai pinang;temindung permai;headline_kaltim;;;https://headlinekaltim.co/ternak-babi-mati-massal-di-berau-diduga-virus-hog-cholera-menular-ke-manusia/
+141;N124;wild;11/06/2021;sumatera selatan;empat lawang;talang padang;talang padang;tribun;;;https://m.tribunnews.com/regional/2021/06/11/wabah-flu-babi-serang-empat-lawang-puluhan-babi-hutan-ditemukan-mati-bangkai-tak-dirubung-lalat?page=all
+142;N124;wild;11/06/2021;sumatera selatan;lahat;undetected;undetected;tribun;;;https://m.tribunnews.com/regional/2021/06/11/wabah-flu-babi-serang-empat-lawang-puluhan-babi-hutan-ditemukan-mati-bangkai-tak-dirubung-lalat?page=all
+143;N124;wild;11/06/2021;sumatera selatan;muara enim;muara enim;muara enim;tribun;;;https://m.tribunnews.com/regional/2021/06/11/wabah-flu-babi-serang-empat-lawang-puluhan-babi-hutan-ditemukan-mati-bangkai-tak-dirubung-lalat?page=all
+144;N124;wild;11/06/2021;sumatera selatan;musi rawas;undetected;undetected;tribun;;;https://m.tribunnews.com/regional/2021/06/11/wabah-flu-babi-serang-empat-lawang-puluhan-babi-hutan-ditemukan-mati-bangkai-tak-dirubung-lalat?page=all
+145;N124;wild;11/06/2021;sumatera selatan;ogan komering ilir;undetected;undetected;tribun;;;https://m.tribunnews.com/regional/2021/06/11/wabah-flu-babi-serang-empat-lawang-puluhan-babi-hutan-ditemukan-mati-bangkai-tak-dirubung-lalat?page=all
+146;N124;wild;11/06/2021;sumatera selatan;ogan komering ulu;undetected;undetected;tribun;;;https://m.tribunnews.com/regional/2021/06/11/wabah-flu-babi-serang-empat-lawang-puluhan-babi-hutan-ditemukan-mati-bangkai-tak-dirubung-lalat?page=all
+147;N124;wild;11/06/2021;sumatera selatan;ogan komering ulu selatan;undetected;undetected;tribun;;;https://m.tribunnews.com/regional/2021/06/11/wabah-flu-babi-serang-empat-lawang-puluhan-babi-hutan-ditemukan-mati-bangkai-tak-dirubung-lalat?page=all
+148;N147;domestic;11/06/2021;kalimantan utara;bulungan;peso;long lasan;tribun_kaltara;40;regency;https://kaltara.tribunnews.com/2021/06/11/40-babi-di-bulungan-mati-mendadak-dinas-pertanian-kaltara-jelaskan-virus-asf-menular-ke-manusia
+149;N147;domestic;11/06/2021;kalimantan utara;malinau;undetected;undetected;tribun_kaltara;;;https://kaltara.tribunnews.com/2021/06/11/40-babi-di-bulungan-mati-mendadak-dinas-pertanian-kaltara-jelaskan-virus-asf-menular-ke-manusia
+150;N149;domestic;12/06/2021;kalimantan utara;nunukan;krayan timur;bungayan;tribun_kaltara;;;https://kaltara.tribunnews.com/2021/06/12/30-ekor-babi-mati-di-wilayah-krayan-timur-kadispertanakan-nunukan-masniadi-beber-dugaan-kronologi
+151;N141;domestic;13/08/2021;kepulauan bangka belitung;bangka;belinyu;belinyu;bangkapos;6695;regency;https://bangka.tribunnews.com/2021/08/13/ribuan-babi-mati-terserang-wabah-african-swine-fever-di-sungailiat-bangka-gejala-awal-mata-merah
+152;N141;domestic;13/08/2021;kepulauan bangka belitung;belitung;undetected;undetected;bangkapos;;;https://bangka.tribunnews.com/2021/08/13/ribuan-babi-mati-terserang-wabah-african-swine-fever-di-sungailiat-bangka-gejala-awal-mata-merah
+153;N116;wild;06/09/2021;bengkulu;bengkulu utara;undetected;undetected;republik;;;https://news.republika.co.id/berita/qz0e6b366/belasan-babi-hutan-di-bengkulu-mati-terserang-flu-babi
+154;N138;domestic;29/09/2021;kalimantan barat;kapuas hulu;seberuang;bati;equator_online;157;subdistrict;https://equatoronline.id/ratusan-babi-mati-secara-misterius-di-kapuas-hulu/
+155;N114;wild;01/10/2021;jambi;batanghari;undetected;undetected;kompas_id;62;province;https://www.kompas.id/baca/nusantara/2021/10/01/kematian-babi-hutan-meluas-hingga-taman-nasional
+156;N114;wild;01/10/2021;jambi;bungo;undetected;undetected;kompas_id;;;https://www.kompas.id/baca/nusantara/2021/10/01/kematian-babi-hutan-meluas-hingga-taman-nasional
+157;N114;wild;01/10/2021;jambi;merangin;undetected;undetected;kompas_id;;;https://www.kompas.id/baca/nusantara/2021/10/01/kematian-babi-hutan-meluas-hingga-taman-nasional
+158;N114;wild;01/10/2021;jambi;sarolangun;sarolangun;baru;kompas_id;;;https://www.kompas.id/baca/nusantara/2021/10/01/kematian-babi-hutan-meluas-hingga-taman-nasional
+159;N114;wild;01/10/2021;jambi;tebo;undetected;undetected;kompas_id;;;https://www.kompas.id/baca/nusantara/2021/10/01/kematian-babi-hutan-meluas-hingga-taman-nasional
+160;N120;wild;15/10/2021;kalimantan barat;kapuas hulu;undetected;undetected;sindo_news;2;province;https://nasional.sindonews.com/read/569492/15/dua-babi-berjanggut-di-tana-bentarum-mati-terserang-virus-asf-1634278223
+161;N140;domestic;27/10/2021;kalimantan utara;malinau;undetected;undetected;benuanta;;;https://benuanta.co.id/index.php/2021/10/27/marak-babi-mati-mendadak-di-malinau-bkp-belum-dapat-kabar/55129/17/20/10/
+162;N150;domestic;03/12/2021;kalimantan barat;kapuas hulu;silat hilir;baru;tribun_pontianak;;;https://pontianak.tribunnews.com/2021/12/03/ratusan-babi-mati-mendadak-terjadi-di-10-kecamatan-di-kapuas-hulu-warga-tidak-melapor
+163;N135;domestic;04/12/2021;sumatera barat;agam;palembayan;salareh aia;antara_kalteng;;;https://kalteng.antaranews.com/berita/525525/puluhan-ekor-babi-liar-mati-mendadak-di-agam
+164;N135;domestic;04/12/2021;sumatera barat;pasaman barat;undetected;undetected;antara_kalteng;;;https://kalteng.antaranews.com/berita/525525/puluhan-ekor-babi-liar-mati-mendadak-di-agam
+165;N030;domestic;06/12/2021;sumatera barat;kota padang;undetected;undetected;haluan_padang;;;https://padang.harianhaluan.com/reportase/pr-1062071127/flu-babi-afrika-pernah-tercatat-di-pasaman-pada-desember-2019-berikut-kronologinya
+166;N030;domestic;06/12/2021;sumatera barat;pasaman;panti;panti;haluan_padang;;;https://padang.harianhaluan.com/reportase/pr-1062071127/flu-babi-afrika-pernah-tercatat-di-pasaman-pada-desember-2019-berikut-kronologinya
+167;N126;wild;23/12/2021;sumatera barat;agam;palembayan;salareh aia;suara_sumbar;;;https://sumbar.suara.com/read/2021/12/23/121500/puluhan-ekor-babi-mati-mendadak-di-agam-positif-terpapar-virus-flu-babi-afrika
+168;N142;domestic;23/12/2021;sumatera barat;kota padang;undetected;undetected;sumbar_kita;;;https://sumbarkita.id/hasil-uji-sampel-puluhan-babi-mati-mendadak-di-agam-positif-flu-babi-afrika/
+169;N156;wild;03/01/2022;lampung;kota bandar lampung;tanjung senang;tanjung senang;kupastuntas;;;https://kupastuntas.co/2022/01/03/kupas-tv-babi-celeng-mati-tanpa-sebab-warga-tanggamus-khawatir-penyakit-menular
+170;N156;wild;03/01/2022;lampung;tanggamus;undetected;undetected;kupastuntas;;;https://kupastuntas.co/2022/01/03/kupas-tv-babi-celeng-mati-tanpa-sebab-warga-tanggamus-khawatir-penyakit-menular
+171;N168;domestic;25/01/2022;bali;karangasem;abang;undetected;lentera_esai;24;subdistrict;https://lenteraesai.id/2022/01/25/puluhan-babi-mati-mendadak-di-abang-merta-tanaya-lapor-jika-ada-kejanggalan/
+172;N157;domestic;19/02/2022;kalimantan barat;kapuas hulu;undetected;undetected;betahita;44321;province;https://betahita.id/news/lipsus/7158/serangan-afs-di-kalbar-akibatkan-44-ribu-ekor-babi-mati.html?v=1645276570
+173;N157;domestic;19/02/2022;kalimantan barat;kubu raya;kubu;undetected;betahita;;;https://betahita.id/news/lipsus/7158/serangan-afs-di-kalbar-akibatkan-44-ribu-ekor-babi-mati.html?v=1645276570
+174;N157;domestic;19/02/2022;kalimantan barat;landak;undetected;undetected;betahita;;;https://betahita.id/news/lipsus/7158/serangan-afs-di-kalbar-akibatkan-44-ribu-ekor-babi-mati.html?v=1645276570
+175;N157;domestic;19/02/2022;kalimantan barat;melawi;undetected;undetected;betahita;;;https://betahita.id/news/lipsus/7158/serangan-afs-di-kalbar-akibatkan-44-ribu-ekor-babi-mati.html?v=1645276570
+176;N157;domestic;19/02/2022;kalimantan barat;mempawah;undetected;undetected;betahita;;;https://betahita.id/news/lipsus/7158/serangan-afs-di-kalbar-akibatkan-44-ribu-ekor-babi-mati.html?v=1645276570
+177;N157;domestic;19/02/2022;kalimantan barat;sanggau;undetected;undetected;betahita;;;https://betahita.id/news/lipsus/7158/serangan-afs-di-kalbar-akibatkan-44-ribu-ekor-babi-mati.html?v=1645276570
+178;N157;domestic;19/02/2022;kalimantan barat;sintang;undetected;undetected;betahita;;;https://betahita.id/news/lipsus/7158/serangan-afs-di-kalbar-akibatkan-44-ribu-ekor-babi-mati.html?v=1645276570
+179;N139;domestic;02/03/2022;kalimantan barat;sanggau;noyan;noyan;suara_kalbar;24216;regency;https://www.suarakalbar.co.id/2022/03/diduga-terjangkit-virus-asf-ribuan-babi-mati-mendadak-di-sanggau/
+180;N167;domestic;08/03/2022;kalimantan tengah;gunung mas;undetected;undetected;prokal;;;https://sampit.prokal.co/read/news/34703-virus-demam-babi-afrika-hantui-peternak-di-kotim.html
+181;N167;domestic;08/03/2022;kalimantan tengah;kapuas;undetected;undetected;prokal;;;https://sampit.prokal.co/read/news/34703-virus-demam-babi-afrika-hantui-peternak-di-kotim.html
+182;N167;domestic;08/03/2022;kalimantan tengah;kotawaringin timur;cempaga hulu;pelantaran;prokal;;;https://sampit.prokal.co/read/news/34703-virus-demam-babi-afrika-hantui-peternak-di-kotim.html
+183;N169;domestic;06/06/2022;bali;tabanan;marga;undetected;tribun_bali;;;https://bali.tribunnews.com/2022/06/06/ada-gelombang-kedua-virus-babi-di-bali-banyak-celeng-mati-di-tabanan
+184;N162;domestic;26/07/2022;nusa tenggara timur;kupang;undetected;undetected;medcom;122000;province;https://www.medcom.id/nasional/daerah/ybDDEBAb-122-ribu-ternak-babi-di-ntt-mati-terjangkit-virus
+185;N155;wild;14/09/2022;kalimantan utara;nunukan;undetected;undetected;koran_kaltara;24;subdistrict;https://korankaltara.com/diduga-terjangkit-virus-asf-puluhan-babi-di-krayan-mati-mendadak
+186;N165;domestic;21/09/2022;nusa tenggara timur;sikka;undetected;undetected;kompas_regional;17;subdistrict;https://regional.kompas.com/read/2022/09/21/162756478/17-babi-di-sikka-mati-mendadak-pemkab-uji-sampel-darah-untuk-pastikan-sebab
+187;N164;domestic;29/11/2022;sumatera utara;deli serdang;undetected;undetected;kompas_regional;2000;province;https://medan.kompas.com/read/2022/11/29/202000978/di-medan-dan-deli-serdang-ada-2000-ekor-babi-mati-mendadak-diduga-karena-virus
+188;N164;domestic;29/11/2022;sumatera utara;kota medan;undetected;undetected;kompas_regional;;;https://medan.kompas.com/read/2022/11/29/202000978/di-medan-dan-deli-serdang-ada-2000-ekor-babi-mati-mendadak-diduga-karena-virus
+189;N193;domestic;18/01/2023;nusa tenggara timur;kota kupang;undetected;undetected;kompas_regional;48;regency;https://regional.kompas.com/read/2023/01/18/165325478/48-hewan-ternak-babi-di-kupang-mati-mendadak-sampel-darah-diuji-hingga
+190;N193;domestic;18/01/2023;nusa tenggara timur;kupang;takari;takari;kompas_regional;;;https://regional.kompas.com/read/2023/01/18/165325478/48-hewan-ternak-babi-di-kupang-mati-mendadak-sampel-darah-diuji-hingga
+191;N232;domestic;18/01/2023;nusa tenggara timur;manggarai;undetected;undetected;tribun_flores;;;https://flores.tribunnews.com/2023/01/18/belum-seminggu-dinas-peternakan-lapor-babi-mati-mendadak-capai-48-ekor-di-kabupaten-kupang
+192;N233;domestic;18/01/2023;nusa tenggara timur;belu;undetected;undetected;tribun_kupang;;;https://kupang.tribunnews.com/2023/01/18/babi-mati-di-naibonat-terkonfirmasi-positif-asf
+193;N233;domestic;18/01/2023;nusa tenggara timur;sikka;nita;nita;tribun_kupang;;;https://kupang.tribunnews.com/2023/01/18/babi-mati-di-naibonat-terkonfirmasi-positif-asf
+194;N208;domestic;19/01/2023;nusa tenggara timur;lembata;undetected;undetected;tirto;;;https://tirto.id/puluhan-babi-di-nusa-tenggara-timur-mati-akibat-flu-babi-afrika-gBi3#google_vignette
+195;N182;domestic;21/01/2023;nusa tenggara timur;ende;undetected;undetected;antara_ntt;;;https://kupang.antaranews.com/berita/105318/puluhan-ekor-babi-di-kupang-mati-diduga-terpapar-virus-asf
+196;N186;domestic;23/01/2023;nusa tenggara timur;sumba barat;undetected;undetected;kompas_regional;;;https://regional.kompas.com/read/2023/01/23/232658878/dinkes-sebut-233-babi-mati-mendadak-di-ntt-sejak-desember-2022
+197;N186;domestic;23/01/2023;nusa tenggara timur;sumba barat daya;undetected;undetected;kompas_regional;;;https://regional.kompas.com/read/2023/01/23/232658878/dinkes-sebut-233-babi-mati-mendadak-di-ntt-sejak-desember-2022
+198;N192;domestic;24/01/2023;nusa tenggara timur;flores timur;adonara;adonara;antara_ntt;;;https://kupang.antaranews.com/berita/105417/karantina-kupang-sebut-babi-yang-mati-di-flotim-bukan-dari-bali
+199;N192;domestic;24/01/2023;nusa tenggara timur;ngada;undetected;undetected;antara_ntt;;;https://kupang.antaranews.com/berita/105417/karantina-kupang-sebut-babi-yang-mati-di-flotim-bukan-dari-bali
+200;N211;domestic;25/01/2023;nusa tenggara timur;nagekeo;undetected;undetected;kompas_regional;;;https://regional.kompas.com/read/2023/01/25/132600078/252-ternak-babi-di-ntt-mati-mendadak-paling-banyak-di-kabupaten-kupang
+201;N235;domestic;25/01/2023;nusa tenggara timur;manggarai timur;borong;poco rii;tribun_kupang;20;regency;https://kupang.tribunnews.com/2023/01/25/20-ekor-babi-mati-di-poco-rii-disnak-matim-langsung-turun-lapangan-untuk-tangani
+202;N196;domestic;08/02/2023;nusa tenggara timur;nagekeo;undetected;undetected;kompas_regional;349;province;https://regional.kompas.com/read/2023/02/08/115451678/sudah-349-ekor-babi-ternak-yang-mati-mendadak-di-ntt
+203;N196;domestic;08/02/2023;nusa tenggara timur;sikka;undetected;undetected;kompas_regional;;;https://regional.kompas.com/read/2023/02/08/115451678/sudah-349-ekor-babi-ternak-yang-mati-mendadak-di-ntt
+204;N238;domestic;13/02/2023;nusa tenggara timur;manggarai;undetected;undetected;kobaran;;;https://www.kobaran.com/news/pr-4657497993/hati-hati-demam-babi-afrika-meningkat-banyak-babi-mati-mendadak-di-ntt
+205;N238;domestic;13/02/2023;nusa tenggara timur;manggarai timur;borong;nanga labang;kobaran;;;https://www.kobaran.com/news/pr-4657497993/hati-hati-demam-babi-afrika-meningkat-banyak-babi-mati-mendadak-di-ntt
+206;N184;domestic;02/05/2023;bali;buleleng;buleleng;undetected;detik;1300;village;https://www.detik.com/bali/berita/d-6700383/waduh-1-300-ekor-babi-di-desa-bila-mati-mendadak
+207;N223;domestic;02/05/2023;sulawesi selatan;gowa;undetected;undetected;tribun_toraja;;;https://toraja.tribunnews.com/2023/05/02/petugas-kesehatan-hewan-luwu-utara-bingung-ribuan-ekor-babi-tiba-tiba-mati
+208;N175;domestic;14/05/2023;sulawesi selatan;luwu timur;tomoni;tomoni;warta_lutim;8081;subdistrict;https://warta.luwutimurkab.go.id/2023/05/14/pemkab-lutim-terus-intens-tangani-berjangkitnya-virus-asf-drh-gusti-ngurah-tidak-menular-ke-manusia/
+209;N178;domestic;14/05/2023;sulawesi selatan;kota makassar;undetected;undetected;detik;14756;regency;https://www.detik.com/sulsel/berita/d-6719748/awal-mula-virus-asf-masuk-luwu-timur-hingga-14-756-babi-mati-dalam-sebulan
+210;N206;domestic;14/05/2023;sulawesi selatan;bulukumba;undetected;undetected;tribun_makassar;;;https://makassar.tribunnews.com/2023/05/14/14756-ekor-babi-di-luwu-timur-mati-terserang-virus-asf-apakah-bisa-menular-ke-manusia
+211;N206;domestic;14/05/2023;sulawesi selatan;luwu utara;undetected;undetected;tribun_makassar;;;https://makassar.tribunnews.com/2023/05/14/14756-ekor-babi-di-luwu-timur-mati-terserang-virus-asf-apakah-bisa-menular-ke-manusia
+212;N220;domestic;14/05/2023;sulawesi selatan;gowa;undetected;undetected;palopopos;;;https://palopopos.fajar.co.id/2023/05/14/virus-asf-serang-luwu-timur-puluhan-ribu-babi-mati-ditemukan-berserakan-di-saluran-irigasi/
+213;N220;domestic;14/05/2023;sulawesi selatan;toraja utara;undetected;undetected;palopopos;;;https://palopopos.fajar.co.id/2023/05/14/virus-asf-serang-luwu-timur-puluhan-ribu-babi-mati-ditemukan-berserakan-di-saluran-irigasi/
+214;N173;domestic;16/05/2023;sulawesi selatan;luwu;bua;posi;warta_lutim;;;https://warta.luwutimurkab.go.id/2023/05/16/penyakit-african-swine-fever-asf-masuk-lutim-berikut-kronologis-investigasi-dan-penanganannya-oleh-pemda/
+215;N173;domestic;16/05/2023;sulawesi selatan;maros;undetected;undetected;warta_lutim;;;https://warta.luwutimurkab.go.id/2023/05/16/penyakit-african-swine-fever-asf-masuk-lutim-berikut-kronologis-investigasi-dan-penanganannya-oleh-pemda/
+216;N181;domestic;24/05/2023;sulawesi tengah;parigi moutong;parigi;undetected;antara;3642;regency;https://www.antaranews.com/berita/3554487/pemkab-parigi-moutong-temukan-3642-kasus-ternak-babi-mati-mendadak
+217;N189;domestic;26/05/2023;sulawesi tengah;morowali;undetected;undetected;kompas_tv;6652;province;https://www.kompas.tv/regional/410389/lebih-dari-6-ribu-babi-mati-mendadak-di-sulawesi-tengah-ada-apa
+218;N189;domestic;26/05/2023;sulawesi tengah;poso;undetected;undetected;kompas_tv;;;https://www.kompas.tv/regional/410389/lebih-dari-6-ribu-babi-mati-mendadak-di-sulawesi-tengah-ada-apa
+219;N187;domestic;29/05/2023;sulawesi tengah;morowali utara;undetected;undetected;liputan6;3010;regency;https://www.liputan6.com/regional/read/5298151/3-ribu-babi-di-sulteng-mati-mendadak-ada-apa
+220;N224;domestic;10/06/2023;sulawesi selatan;gowa;undetected;undetected;tribun_toraja;;;https://toraja.tribunnews.com/2023/06/10/di-tana-toraja-540-ekor-babi-mati-karena-asf
+221;N224;domestic;10/06/2023;sulawesi selatan;toraja utara;undetected;undetected;tribun_toraja;;;https://toraja.tribunnews.com/2023/06/10/di-tana-toraja-540-ekor-babi-mati-karena-asf
+222;N185;domestic;12/06/2023;sulawesi selatan;luwu;suli;suli;detik;50000;regency;https://www.detik.com/sulsel/berita/d-6768361/wabah-virus-asf-meluas-ke-5-wilayah-sulsel-50-000-babi-dilaporkan-mati
+223;N185;domestic;12/06/2023;sulawesi selatan;luwu timur;undetected;undetected;detik;;;https://www.detik.com/sulsel/berita/d-6768361/wabah-virus-asf-meluas-ke-5-wilayah-sulsel-50-000-babi-dilaporkan-mati
+224;N185;domestic;12/06/2023;sulawesi selatan;luwu utara;undetected;undetected;detik;;;https://www.detik.com/sulsel/berita/d-6768361/wabah-virus-asf-meluas-ke-5-wilayah-sulsel-50-000-babi-dilaporkan-mati
+225;N185;domestic;12/06/2023;sulawesi selatan;tana toraja;undetected;undetected;detik;;;https://www.detik.com/sulsel/berita/d-6768361/wabah-virus-asf-meluas-ke-5-wilayah-sulsel-50-000-babi-dilaporkan-mati
+226;N183;domestic;17/06/2023;sulawesi barat;polewali mandar;polewali;darma;detik;1000;province;https://www.detik.com/sulsel/berita/d-6778471/1-000-ekor-babi-di-polman-mati-akibat-virus-asf
+227;N228;domestic;17/06/2023;sulawesi barat;mamasa;sumarorong;sumarorong;tribun_sulbar;;;https://sulbar.tribunnews.com/2023/06/17/ribuan-babi-di-mamasa-dan-polman-mati-akibat-virus-asf-awal-penyebaran-dari-tana-toraja
+228;N231;domestic;27/06/2023;sulawesi selatan;toraja utara;rantepao;rantepao;tribun_toraja;;;https://toraja.tribunnews.com/2023/06/27/babi-ternak-yang-mati-karena-asf-di-toraja-utara-sudah-mencapai-7-ribu-ekor
+229;N217;domestic;26/07/2023;sulawesi tengah;sigi;lindu;puroo;tribun_palu;530;regency;https://palu.tribunnews.com/2023/07/26/530-babi-mati-di-sigi-terbanyak-di-kecamatan-sigi-biromaru
+230;N219;domestic;25/08/2023;sulawesi selatan;toraja utara;nanggala;nanggala;palopopos;5973;regency;https://palopopos.fajar.co.id/2023/08/25/babi-mati-akibat-asf-di-toraja-utara-capai-5-973-peternak-babi-diharap-waspada/
+231;N198;wild;30/08/2023;sulawesi selatan;gowa;undetected;undetected;tribun_makassar;;;https://makassar.tribunnews.com/2023/08/30/banyak-babi-hutan-mati-mendadak-di-palopo-diduga-terinfeksi-african-swine-fever-atau-asf-apa-itu#google_vignette
+232;N198;wild;30/08/2023;sulawesi selatan;kota palopo;wara barat;battang;tribun_makassar;;;https://makassar.tribunnews.com/2023/08/30/banyak-babi-hutan-mati-mendadak-di-palopo-diduga-terinfeksi-african-swine-fever-atau-asf-apa-itu#google_vignette
+233;N190;domestic;31/08/2023;sulawesi tengah;sigi;lindu;puroo;mercusuar;2400;regency;https://mercusuar.web.id/sulteng-membangun/hingga-agustus-ribuan-ternak-babi-mati/
+234;N194;wild;31/08/2023;sulawesi selatan;luwu;undetected;undetected;koranseruya;;;https://koranseruya.com/babi-hutan-banyak-ditemukan-mati-di-bantaran-sungai-battang-barat-palopo.html
+235;N194;wild;31/08/2023;sulawesi selatan;luwu timur;undetected;undetected;koranseruya;;;https://koranseruya.com/babi-hutan-banyak-ditemukan-mati-di-bantaran-sungai-battang-barat-palopo.html
+236;N194;wild;31/08/2023;sulawesi selatan;luwu utara;undetected;undetected;koranseruya;;;https://koranseruya.com/babi-hutan-banyak-ditemukan-mati-di-bantaran-sungai-battang-barat-palopo.html
+237;N203;wild;07/09/2023;gorontalo;gorontalo;undetected;undetected;kompas_regional;1;regency;https://regional.kompas.com/read/2023/09/07/120109978/babi-kutil-sulawesi-ditemukan-mati-di-kawasan-peneluran-maleo
+238;N203;wild;07/09/2023;gorontalo;kota gorontalo;undetected;undetected;kompas_regional;;;https://regional.kompas.com/read/2023/09/07/120109978/babi-kutil-sulawesi-ditemukan-mati-di-kawasan-peneluran-maleo
+239;N226;domestic;29/09/2023;bali;badung;undetected;undetected;tribun_bali;;;https://bali.tribunnews.com/2023/09/29/puluhan-babi-di-karangasem-mati-mendadak-distan-bantah-karena-virus-mungkin-kepanasan
+240;N226;domestic;29/09/2023;bali;bangli;susut;undetected;tribun_bali;;;https://bali.tribunnews.com/2023/09/29/puluhan-babi-di-karangasem-mati-mendadak-distan-bantah-karena-virus-mungkin-kepanasan
+241;N226;domestic;29/09/2023;bali;karangasem;manggis;manggis;tribun_bali;;;https://bali.tribunnews.com/2023/09/29/puluhan-babi-di-karangasem-mati-mendadak-distan-bantah-karena-virus-mungkin-kepanasan
+242;N283;domestic;26/01/2024;papua tengah;mimika;alama;alama;salam_papua;193;regency;https://salampapua.com/2024/01/193-ekor-babi-di-timika-mati-diserang-virus-asf-disnakeswan-larang-pengiriman-keluar-mimika.html
+243;N246;domestic;28/01/2024;sulawesi barat;mamuju;papalang;papalang;antara;;;https://www.antaranews.com/berita/3936294/dinas-tphp-sulbar-indetifikasi-kematian-ternak-babi-di-mamuju
+244;N333;domestic;01/02/2024;nusa tenggara timur;sikka;nita;nita;tribun_flores;;;https://flores.tribunnews.com/2024/02/01/terserang-virus-asf-74-ekor-babi-di-sikka-mati-mendadak-desa-nita-terbanyak
+245;N312;domestic;02/02/2024;nusa tenggara timur;ende;undetected;undetected;rri;;;https://www.rri.co.id/daerah/541498/wabah-asf-melanda-74-ekor-ternak-babi-di-sikka-mati
+246;N243;domestic;05/02/2024;kalimantan tengah;kapuas;mandau talawang;tumbang manyarung;borneonews;;;https://www.borneonews.co.id/berita/329612-sejumlah-ternak-babi-mati-mendadak-ini-langkah-distan-kapuas
+247;N326;domestic;05/02/2024;nusa tenggara timur;kota kupang;oebobo;liliba;kupang_news;;;https://www.kupangnews.com/daerah/414089528/di-sikka-74-ekor-babi-mati-diserang-penyakit-asf
+248;N330;domestic;06/02/2024;nusa tenggara timur;kupang;amabi oefeto;oefeto;tribun_flores;;;https://flores.tribunnews.com/2024/02/06/virus-babi-afrika-kembali-menyerang-babi-di-tiga-kecamatan-kabupaten-kupang
+249;N325;domestic;07/02/2024;nusa tenggara timur;malaka;undetected;undetected;victory_news;;;https://www.victorynews.id/ntt/33111800218/74-ekor-babi-di-sikka-mati-diserang-virus-asf-kabupaten-kupang-waspada
+250;N319;domestic;09/02/2024;nusa tenggara timur;flores timur;undetected;undetected;tribun_flores;;;https://flores.tribunnews.com/2024/02/09/kasus-asf-di-sikka-babi-mati-bertambah-jadi-77-ekor
+251;N321;domestic;12/02/2024;nusa tenggara timur;belu;undetected;undetected;floresa;;;https://floresa.co/reportase/mendalam/60847/2024/02/12/dua-bulan-terakhir-puluhan-babi-mati-di-dua-kelurahan-di-manggarai-dinas-peternakan-belum-cek-ke-lokasi
+252;N321;domestic;12/02/2024;nusa tenggara timur;manggarai;langke rembong;tenda;floresa;;;https://floresa.co/reportase/mendalam/60847/2024/02/12/dua-bulan-terakhir-puluhan-babi-mati-di-dua-kelurahan-di-manggarai-dinas-peternakan-belum-cek-ke-lokasi
+253;N321;domestic;12/02/2024;nusa tenggara timur;manggarai timur;undetected;undetected;floresa;;;https://floresa.co/reportase/mendalam/60847/2024/02/12/dua-bulan-terakhir-puluhan-babi-mati-di-dua-kelurahan-di-manggarai-dinas-peternakan-belum-cek-ke-lokasi
+254;N310;domestic;16/02/2024;papua tengah;puncak;undetected;undetected;koran_papua;;;https://koranpapua.id/2024/02/16/virus-asf-di-timika-makin-ganas-ribuan-ekor-babi-mati-disnak-keswan-kuburkan-secara-massal/
+255;N274;domestic;22/02/2024;papua tengah;mimika;alama;alama;koran_papua;1848;regency;https://koranpapua.id/2024/02/22/1-848-ekor-babi-mati-pasca-merebaknya-virus-asf-di-timika/
+256;N306;domestic;22/02/2024;nusa tenggara timur;kupang;undetected;undetected;timex_kupang;146;province;https://timexkupang.fajar.co.id/2024/02/22/virus-asf-kembali-menyerang/
+257;N281;domestic;25/02/2024;papua tengah;nabire;undetected;undetected;nabire;;;https://www.nabire.net/waduh-sudah-1-726-ternak-babi-di-mimika-mati-akibat-virus-asf/#google_vignette
+258;N267;domestic;26/02/2024;papua tengah;deiyai;undetected;undetected;suara_papua;2500;regency;https://suarapapua.com/2024/02/26/gawat-di-mimika-2-500-ekor-babi-mati-terserang-virus-asf/
+259;N267;domestic;26/02/2024;papua tengah;dogiyai;undetected;undetected;suara_papua;;;https://suarapapua.com/2024/02/26/gawat-di-mimika-2-500-ekor-babi-mati-terserang-virus-asf/
+260;N267;domestic;26/02/2024;papua tengah;intan jaya;undetected;undetected;suara_papua;;;https://suarapapua.com/2024/02/26/gawat-di-mimika-2-500-ekor-babi-mati-terserang-virus-asf/
+261;N267;domestic;26/02/2024;papua tengah;paniai;undetected;undetected;suara_papua;;;https://suarapapua.com/2024/02/26/gawat-di-mimika-2-500-ekor-babi-mati-terserang-virus-asf/
+262;N267;domestic;26/02/2024;papua tengah;puncak jaya;undetected;undetected;suara_papua;;;https://suarapapua.com/2024/02/26/gawat-di-mimika-2-500-ekor-babi-mati-terserang-virus-asf/
+263;N309;domestic;26/02/2024;nusa tenggara timur;belu;undetected;undetected;voi;146;province;https://voi.id/berita/360237/146-ekor-ternak-babi-di-ntt-mati-akibat-asf
+264;N309;domestic;26/02/2024;nusa tenggara timur;kota kupang;undetected;undetected;voi;;;https://voi.id/berita/360237/146-ekor-ternak-babi-di-ntt-mati-akibat-asf
+265;N309;domestic;26/02/2024;nusa tenggara timur;manggarai;undetected;undetected;voi;;;https://voi.id/berita/360237/146-ekor-ternak-babi-di-ntt-mati-akibat-asf
+266;N309;domestic;26/02/2024;nusa tenggara timur;ngada;undetected;undetected;voi;;;https://voi.id/berita/360237/146-ekor-ternak-babi-di-ntt-mati-akibat-asf
+267;N309;domestic;26/02/2024;nusa tenggara timur;sikka;nita;nita;voi;;;https://voi.id/berita/360237/146-ekor-ternak-babi-di-ntt-mati-akibat-asf
+268;N309;domestic;26/02/2024;nusa tenggara timur;sumba barat;undetected;undetected;voi;;;https://voi.id/berita/360237/146-ekor-ternak-babi-di-ntt-mati-akibat-asf
+269;N309;domestic;26/02/2024;nusa tenggara timur;sumba barat daya;undetected;undetected;voi;;;https://voi.id/berita/360237/146-ekor-ternak-babi-di-ntt-mati-akibat-asf
+270;N171;domestic;27/02/2024;nusa tenggara timur;flores timur;undetected;undetected;antara_ntt;;;https://kupang.antaranews.com/berita/126873/146-ekor-ternak-babi-di-ntt-mati-akibat-virus-asf
+271;N171;domestic;27/02/2024;nusa tenggara timur;lembata;undetected;undetected;antara_ntt;;;https://kupang.antaranews.com/berita/126873/146-ekor-ternak-babi-di-ntt-mati-akibat-virus-asf
+272;N171;domestic;27/02/2024;nusa tenggara timur;nagekeo;undetected;undetected;antara_ntt;;;https://kupang.antaranews.com/berita/126873/146-ekor-ternak-babi-di-ntt-mati-akibat-virus-asf
+273;N315;domestic;28/02/2024;nusa tenggara timur;manggarai barat;lembor selatan;modo;tribun_kupang;85;regency;https://kupang.tribunnews.com/2024/02/28/85-ekor-babi-di-manggarai-barat-mati-mendadak-terindikasi-virus-asf
+274;N315;domestic;28/02/2024;nusa tenggara timur;manggarai timur;undetected;undetected;tribun_kupang;;;https://kupang.tribunnews.com/2024/02/28/85-ekor-babi-di-manggarai-barat-mati-mendadak-terindikasi-virus-asf
+275;N251;domestic;18/03/2024;bali;karangasem;selat;undetected;detik_bali;;;https://www.detik.com/bali/nusra/d-7248527/puluhan-babi-di-karangasem-mati-diduga-terserang-virus-asf
+276;N311;domestic;19/03/2024;nusa tenggara timur;alor;teluk mutiara;mutiara;warta_alor;;;https://wartaalor.com/2024/03/19/73-ekor-ternak-babi-di-teluk-mutiara-alor-mati-terserang-penyakit-asf-pemda-himbau-warga-waspada/
+277;N311;domestic;19/03/2024;nusa tenggara timur;ende;undetected;undetected;warta_alor;;;https://wartaalor.com/2024/03/19/73-ekor-ternak-babi-di-teluk-mutiara-alor-mati-terserang-penyakit-asf-pemda-himbau-warga-waspada/
+278;N242;domestic;02/04/2024;kalimantan tengah;kotawaringin timur;telawang;kenyala;antara;;;https://www.antaranews.com/berita/4039254/dpkp-investigasi-penyebab-kematian-mendadak-ternak-babi-di-telawang
+279;N268;domestic;03/04/2024;papua tengah;mimika;kuala kencana;kuala kencana;fajar_papua;5819;regency;https://fajarpapua.com/2024/04/03/hingga-1-april-2024-jumlah-kematian-babi-akibat-asf-di-timika-capai-5-819-ekor/#google_vignette
+280;N256;domestic;09/04/2024;nusa tenggara timur;sikka;undetected;undetected;detik_bali;;;https://www.detik.com/bali/nusra/d-7286172/ratusan-babi-di-nagekeo-ntt-mati-dengan-gejala-asf
+281;N298;domestic;15/04/2024;nusa tenggara timur;ende;undetected;undetected;kompas_regional;;;https://regional.kompas.com/read/2024/04/15/170053478/babi-terpapar-asf-diduga-masuk-sikka-pemkab-lakukan-penelusuran
+282;N298;domestic;15/04/2024;nusa tenggara timur;nagekeo;undetected;undetected;kompas_regional;;;https://regional.kompas.com/read/2024/04/15/170053478/babi-terpapar-asf-diduga-masuk-sikka-pemkab-lakukan-penelusuran
+283;N314;domestic;21/04/2024;nusa tenggara timur;kupang;undetected;undetected;tribun_kupang;;;https://kupang.tribunnews.com/2024/04/21/terserang-virus-asf-12-ekor-babi-mati-warga-sumba-barat-ini-minta-bantuan-babi-dari-pemerintah
+284;N314;domestic;21/04/2024;nusa tenggara timur;sumba barat;undetected;undetected;tribun_kupang;;;https://kupang.tribunnews.com/2024/04/21/terserang-virus-asf-12-ekor-babi-mati-warga-sumba-barat-ini-minta-bantuan-babi-dari-pemerintah
+285;N314;domestic;21/04/2024;nusa tenggara timur;sumba barat daya;undetected;undetected;tribun_kupang;;;https://kupang.tribunnews.com/2024/04/21/terserang-virus-asf-12-ekor-babi-mati-warga-sumba-barat-ini-minta-bantuan-babi-dari-pemerintah
+286;N308;domestic;23/04/2024;nusa tenggara timur;manggarai;undetected;undetected;tribun_flores;;;https://flores.tribunnews.com/2024/04/23/virus-asf-landa-pulau-sumba-1000-ekor-babi-di-sumba-barat-mati
+287;N308;domestic;23/04/2024;nusa tenggara timur;manggarai barat;undetected;undetected;tribun_flores;;;https://flores.tribunnews.com/2024/04/23/virus-asf-landa-pulau-sumba-1000-ekor-babi-di-sumba-barat-mati
+288;N302;domestic;27/04/2024;nusa tenggara timur;manggarai timur;undetected;undetected;tribun_flores;;;https://flores.tribunnews.com/2024/04/27/virus-asf-landa-flores-353-ekor-babi-di-nagekeo-mati
+289;N302;domestic;27/04/2024;nusa tenggara timur;nagekeo;aesesa;lape;tribun_flores;;;https://flores.tribunnews.com/2024/04/27/virus-asf-landa-flores-353-ekor-babi-di-nagekeo-mati
+290;N292;domestic;04/05/2024;nusa tenggara timur;alor;undetected;undetected;kompas_id;1362;regency;https://www.kompas.id/baca/nusantara/2024/05/04/ribuan-ternak-di-ntt-mati-akibat-demam-babi-afrika-dalam-empat-bulan-terakhir
+291;N292;domestic;04/05/2024;nusa tenggara timur;kota kupang;alak;alak;kompas_id;;;https://www.kompas.id/baca/nusantara/2024/05/04/ribuan-ternak-di-ntt-mati-akibat-demam-babi-afrika-dalam-empat-bulan-terakhir
+292;N292;domestic;04/05/2024;nusa tenggara timur;kupang;undetected;undetected;kompas_id;;;https://www.kompas.id/baca/nusantara/2024/05/04/ribuan-ternak-di-ntt-mati-akibat-demam-babi-afrika-dalam-empat-bulan-terakhir
+293;N292;domestic;04/05/2024;nusa tenggara timur;lembata;undetected;undetected;kompas_id;;;https://www.kompas.id/baca/nusantara/2024/05/04/ribuan-ternak-di-ntt-mati-akibat-demam-babi-afrika-dalam-empat-bulan-terakhir
+294;N292;domestic;04/05/2024;nusa tenggara timur;malaka;undetected;undetected;kompas_id;;;https://www.kompas.id/baca/nusantara/2024/05/04/ribuan-ternak-di-ntt-mati-akibat-demam-babi-afrika-dalam-empat-bulan-terakhir
+295;N292;domestic;04/05/2024;nusa tenggara timur;rote ndao;undetected;undetected;kompas_id;;;https://www.kompas.id/baca/nusantara/2024/05/04/ribuan-ternak-di-ntt-mati-akibat-demam-babi-afrika-dalam-empat-bulan-terakhir
+296;N292;domestic;04/05/2024;nusa tenggara timur;sabu raijua;undetected;undetected;kompas_id;;;https://www.kompas.id/baca/nusantara/2024/05/04/ribuan-ternak-di-ntt-mati-akibat-demam-babi-afrika-dalam-empat-bulan-terakhir
+297;N292;domestic;04/05/2024;nusa tenggara timur;sumba timur;undetected;undetected;kompas_id;;;https://www.kompas.id/baca/nusantara/2024/05/04/ribuan-ternak-di-ntt-mati-akibat-demam-babi-afrika-dalam-empat-bulan-terakhir
+298;N299;domestic;07/05/2024;nusa tenggara timur;sikka;nita;nita;kompas_regional;;;https://regional.kompas.com/read/2024/05/07/171134278/20-babi-di-lembata-mati-mendadak-dalam-2-pekan-diduga-akibat-asf
+299;N254;domestic;16/05/2024;nusa tenggara timur;kupang;undetected;undetected;detik_bali;550;regency;https://www.detik.com/bali/nusra/d-7343983/550-babi-di-sikka-ntt-mati-karena-asf
+300;N254;domestic;16/05/2024;nusa tenggara timur;nagekeo;undetected;undetected;detik_bali;;;https://www.detik.com/bali/nusra/d-7343983/550-babi-di-sikka-ntt-mati-karena-asf
+301;N273;domestic;02/06/2024;papua;jayapura;undetected;undetected;fajar_papua;35;0;https://fajarpapua.com/2024/06/02/mengancam-ternak-babi-penjabat-bupati-jayapura-imbau-warga-waspada-virus-asf/#google_vignette
+302;N307;domestic;03/06/2024;nusa tenggara timur;ende;maurole;detuwulu;tribun_ende;;;https://flores.tribunnews.com/2024/06/03/ratusan-ternak-babi-di-ende-mati-mendadak-kadistan-sebut-bukan-asf
+303;N250;domestic;06/06/2024;nusa tenggara timur;lembata;nubatukan;lewoleba;tribun_flores;;;https://flores.tribunnews.com/2024/06/06/239-ternak-babi-di-lembata-mati-sejak-mei-2024-dua-sampel-babi-positif-asf#google_vignette
+304;N252;domestic;06/06/2024;nusa tenggara timur;kupang;undetected;undetected;pos_kupang;239;regency;https://kupang.tribunnews.com/2024/06/06/dua-sampel-babi-asal-lembata-positif-virus-asf-ratusan-ekor-sudah-mati
+305;N239;domestic;09/08/2024;kalimantan utara;malinau;malinau utara;putat;rri;2000;regency;https://www.rri.co.id/daerah-3t/890847/terserang-virus-asf-589-ekor-ternak-babi-di-malinau-mati
+306;N293;domestic;04/09/2024;papua tengah;mimika;undetected;undetected;rri;12574;regency;https://rri.co.id/daerah/953385/12-574-babi-mati-akibat-asf-disnakkeswan-mulai-berkurang
+307;N240;wild;11/09/2024;bali;jembrana;jembrana;undetected;rri;;;https://www.rri.co.id/daerah/967038/belasan-babi-hutan-mati-di-pasatan
+308;N099;domestic;13/12/2024;bali;badung;undetected;undetected;berita_bali;4107;province;https://www.beritabali.com/berita/202003060007/jumlah-babi-mati-di-bali-dekati-angka-3000-ekor
+309;N099;domestic;13/12/2024;bali;bangli;undetected;undetected;berita_bali;;;https://www.beritabali.com/berita/202003060007/jumlah-babi-mati-di-bali-dekati-angka-3000-ekor
+310;N099;domestic;13/12/2024;bali;gianyar;gianyar;undetected;berita_bali;;;https://www.beritabali.com/berita/202003060007/jumlah-babi-mati-di-bali-dekati-angka-3000-ekor
+311;N099;domestic;13/12/2024;bali;jembrana;undetected;undetected;berita_bali;;;https://www.beritabali.com/berita/202003060007/jumlah-babi-mati-di-bali-dekati-angka-3000-ekor
+312;N099;domestic;13/12/2024;bali;karangasem;karangasem;karangasem;berita_bali;;;https://www.beritabali.com/berita/202003060007/jumlah-babi-mati-di-bali-dekati-angka-3000-ekor
+313;N099;domestic;13/12/2024;bali;klungkung;undetected;undetected;berita_bali;;;https://www.beritabali.com/berita/202003060007/jumlah-babi-mati-di-bali-dekati-angka-3000-ekor
+314;N099;domestic;13/12/2024;bali;tabanan;undetected;undetected;berita_bali;;;https://www.beritabali.com/berita/202003060007/jumlah-babi-mati-di-bali-dekati-angka-3000-ekor
+315;N100;domestic;13/12/2024;bali;buleleng;banjar;undetected;berita_bali;;;https://www.beritabali.com/berita/202002250008/116-babi-dilaporkan-mati-di-desa-bila-kubutambahan
+316;N295;domestic;19/12/2024;sulawesi selatan;luwu;undetected;undetected;tribun_toraja;;;https://toraja.tribunnews.com/2024/12/19/776-kasus-virus-asf-terdata-di-tana-toraja-selama-2024-masyarakat-diimbau-jaga-kebersihan-ternak
+317;N295;domestic;19/12/2024;sulawesi selatan;tana toraja;undetected;undetected;tribun_toraja;;;https://toraja.tribunnews.com/2024/12/19/776-kasus-virus-asf-terdata-di-tana-toraja-selama-2024-masyarakat-diimbau-jaga-kebersihan-ternak
+318;N296;domestic;19/12/2024;sulawesi selatan;toraja utara;rantepao;rantepao;tribun_toraja;;;https://toraja.tribunnews.com/2024/12/19/januari-desember-2024-kasus-demam-babi-di-toraja-utara-capai-1039
+319;N241;domestic;10/01/2025;kalimantan tengah;kapuas;mandau talawang;tumbang manyarung;kalteng_pos;;;https://kaltengpos.jawapos.com/berita-utama/04/02/2024/ternak-babi-mati-mendadak-di-dua-desa/
+320;N241;domestic;10/01/2025;kalimantan tengah;pulang pisau;pulang pisau;pulang pisau;kalteng_pos;;;https://kaltengpos.jawapos.com/berita-utama/04/02/2024/ternak-babi-mati-mendadak-di-dua-desa/
+321;N244;domestic;10/01/2025;nusa tenggara timur;belu;undetected;undetected;katantt;;;https://www.katantt.com/artikel/48452/waspada-virus-asf-serang-kabupaten-sikka-74-ekor-babi-mati/
+322;N244;domestic;10/01/2025;nusa tenggara timur;sikka;nita;nita;katantt;;;https://www.katantt.com/artikel/48452/waspada-virus-asf-serang-kabupaten-sikka-74-ekor-babi-mati/
+323;N291;domestic;28/01/2025;nusa tenggara timur;kupang;undetected;undetected;detik_bali;;;https://www.detik.com/bali/nusra/d-7753615/87-babi-di-nagekeo-ntt-mati-dengan-gejala-asf
+324;N291;domestic;28/01/2025;nusa tenggara timur;nagekeo;nangaroro;nangaroro;detik_bali;;;https://www.detik.com/bali/nusra/d-7753615/87-babi-di-nagekeo-ntt-mati-dengan-gejala-asf
